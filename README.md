@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YG-PYTHON
+- 👋 Hi, I’m yared Geremew
 - 👀 I’m interested in ...Machine learning 
 - 🌱 I’m currently learning ... Python, SQL and machine learning
 - 💞️ I’m looking to collaborate on ...
